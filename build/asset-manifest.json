@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1e105c7.chunk.css",
+    "main.js": "/static/js/main.42fdf4b1.chunk.js",
+    "main.js.map": "/static/js/main.42fdf4b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.55a556ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.55a556ca.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c7991b8a.chunk.js": "/static/js/2.c7991b8a.chunk.js",
+    "static/js/2.c7991b8a.chunk.js.map": "/static/js/2.c7991b8a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.99eb53d5f2d31e28b99a39ae94298b5d.js": "/precache-manifest.99eb53d5f2d31e28b99a39ae94298b5d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.f1e105c7.chunk.css.map": "/static/css/main.f1e105c7.chunk.css.map",
+    "static/js/2.c7991b8a.chunk.js.LICENSE": "/static/js/2.c7991b8a.chunk.js.LICENSE",
+    "static/media/App.css": "/static/media/Urba.7cc222a3.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55a556ca.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c7991b8a.chunk.js",
+    "static/css/main.f1e105c7.chunk.css",
+    "static/js/main.42fdf4b1.chunk.js"
+  ]
+}
